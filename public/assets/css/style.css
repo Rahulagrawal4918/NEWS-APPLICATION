@@ -1,0 +1,31 @@
+.background{
+     background: linear-gradient(to right,blue,rgb(0, 179, 255), rgb(0, 157, 255),navy)!important; 
+     
+    /* background-color: navy; */
+}
+
+
+.card-title{
+    height: 80px;
+}
+.card-text{
+    height: 120px;
+}
+.card-source{
+    background-color: bisque;
+    padding: 5px;
+    font-size: 12px;
+    text-align: center;
+}
+.heading{
+    text-transform: capitalize;
+}
+.card:hover{
+    box-shadow: 0.2rem 0.2rem 0.5rem 0.5rem rgba(28, 27, 27, 0.489);
+    
+}
+
+
+.btn:hover{
+    box-shadow: 0.2rem 0.1rem 0.3rem 0.3rem rgba(32, 32, 238, 0.489) 
+}
